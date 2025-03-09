@@ -1,6 +1,4 @@
-# Android_TF 
-
-## :game_die:
+# Android_TF :game_die:
 
 ![App Demo](./assets/Android_TF.gif)
 
