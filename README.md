@@ -1,4 +1,4 @@
-![App Demo](./assets/Android_TF)
+![App Demo](./assets/Android_TF.gif)
 
 Android_TF
 
